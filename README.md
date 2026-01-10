@@ -10,9 +10,14 @@ and it evolved.
 
 sec pic: the version 2, with its Professional Adobe fast control main window.
 
+others v3
 
 ## 🖼️ Application Screenshots
 
 ![Application Screenshot](media/EvolApp.jpg)
 
 ![Application Screenshot2](media/Aplicativo2.5.jpg)
+
+![Application Screenshot2](media/app1.png)
+
+![Application Screenshot2](media/app2.png)

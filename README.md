@@ -1,16 +1,17 @@
 # CentralFixApp
 
-This is a private project, created as a main support and easy to manange complicated file handling for professional software, as Adobe.
-also, it is included some simple scans for common usb flashdrive virus and rogue/adware on the system.
+This is a private project created to simplify and streamline complex file management tasks for professional software such as Adobe applications.
 
-It also automate the process to start the remote support (teamviewer), since most clients dont know how to proceed.
+It also includes basic system scans to detect common USB flash drive malware, as well as rogue software and adware.
 
-First image: the concept - started with a simple idea for a common problem
-and it evolved.
+In addition, the application automates the process of launching remote support through TeamViewer, making it easier for clients who are unfamiliar with the setup process.
 
-sec pic: the version 2, with its Professional Adobe fast control main window.
+**First image:** The original concept. It started as a simple solution to a common problem and gradually evolved into a more comprehensive tool.
 
-others v3
+**Second image:** Version 2, featuring a dedicated control panel for fast management of Adobe-related tasks.
+
+**Remaining images:** Version 3 and later improvements.
+
 
 ## 🖼️ Application Screenshots
 
